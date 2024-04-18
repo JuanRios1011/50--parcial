@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "ejercicio2" : "ejercicio2.js"
+    "ejercicio2" : "ejercicio2.js",
+    "ejercicio3" : "ejercicio3.js"
   },
   "keywords": [],
   "author": "",
